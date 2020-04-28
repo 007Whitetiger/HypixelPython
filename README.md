@@ -1,15 +1,15 @@
-# HyPy
+# PyHy
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/007Whitetiger/HyPy)
 
-HyPy is a API wrapper for the Hypixel Network Public API!
+PyHy is a API wrapper for the Hypixel Network Public API!
 Features:
  - Get json dictionary's easily
  - Get 'objects'
 
 # New Features!
 
-  - The main realease of HyPy is a beta. 
+  - The main realease of PyHy is a beta. 
 
 > Using this Package is on your own risk! :)
 
@@ -21,7 +21,7 @@ Dillinger uses a open source project to work properly:
 
 * Requests: Requests allows you to send HTTP/1.1 requests extremely easily.
 
-And of course Dillinger itself is open source with a [public repository](https://github.com/007Whitetiger/HyPy)
+And of course Dillinger itself is open source with a [public repository](https://github.com/007Whitetiger/PyHy)
  on GitHub or install it via Pypi.
 
 ### Installation
@@ -48,7 +48,7 @@ Want to contribute? Great!
 
 I am always open to imporvement! Go into the files and change things.
 
-Then send a pull request on the [github](https://github.com/007Whitetiger/HyPy) and I will implement it!
+Then send a pull request on the [github](https://github.com/007Whitetiger/PyHy) and I will implement it!
 
 
 ### Todos
