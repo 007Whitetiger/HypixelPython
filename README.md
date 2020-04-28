@@ -4,7 +4,7 @@
 
 HyPy is a API wrapper for the Hypixel Network Public API!
 Features:
- - Get json dictionary's easyli
+ - Get json dictionary's easily
  - Get 'objects'
 
 # New Features!
