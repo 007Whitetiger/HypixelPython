@@ -1,8 +1,8 @@
-# HyPy
+# HypixelPython
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/007Whitetiger/HyPy)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/007Whitetiger/HypixelPython)
 
-HyPy is a API wrapper for the Hypixel Network Public API!
+HypixelPython(HyPy for short) is a API wrapper for the Hypixel Network Public API!
 Features:
  - Get json dictionary's easily
  - Get 'objects'
