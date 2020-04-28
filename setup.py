@@ -2,7 +2,7 @@
 from distutils.core import setup
 setup(
   name = 'HyPy',
-  packages = ['YOURPACKAGENAME'],
+  packages = ['HyPy'],
   version = '0.1',
   license='MIT',
   description = 'TYPE YOUR DESCRIPTION HERE',
